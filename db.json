@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "pepeeeeeee",
+      "precio": 500,
+      "id": 6
+    },
+    {
+      "nombre": "pepeeeeeee",
+      "precio": "13",
+      "id": 7
+    },
+    {
+      "nombre": "dsasdasd1123",
+      "precio": 300,
+      "id": 8
+    },
+    {
+      "nombre": "asasasdasd",
+      "precio": 222,
+      "id": 9
+    },
+    {
+      "nombre": "pepeeasdsdaasd",
+      "precio": 400,
+      "id": 10
+    }
+  ]
+}
